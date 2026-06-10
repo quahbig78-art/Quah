@@ -1,2 +1,3 @@
 Decision Science Student 
+
 I am a Decision Mathematics and Data Analytics student at Universiti Utara Malaysia (UUM) with a strong interest in data analytics and programming-related roles. Through my studies in Regression Modelling and Forecasting, I have developed a solid foundation in analyzing and interpreting data. I am experienced in using tools such as Orange, Microsoft Excel, and Microsoft Access for data mining, as well as Arena Simulation for data modeling, particularly in my Final Year Project.
